@@ -1,4 +1,4 @@
-[![MasterHead](https://codersera.com/blog/wp-content/uploads/2019/09/female-developer.jpg)]
+[![MasterHead](https://www.shutterstock.com/image-vector/frontend-developer-typographic-header-website-260nw-1810322299.jpg)]
 <h1 align="center">Hi 👋, I'm SWATHI M</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align='right' alt='Coding' width='400' src='https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif'>
