@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/frontend-developer-typographic-header-website-260nw-1810322299.jpg)]
+![MasterHead](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm SWATHI M</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align='right' alt='Coding' width='400' src='https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif'>
