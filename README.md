@@ -4,7 +4,6 @@
 <img align='right' alt='Coding' width='400' src='https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swathigowda&label=Profile%20views&color=0e75b6&style=flat" alt="swathigowda" /> </p>
 
-- 
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-sm.vercel.app/](https://myportfolio-sm.vercel.app/)
 
