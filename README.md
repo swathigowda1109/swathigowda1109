@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm SWATHI M</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer.  Javascript Lover💖</h3>
 <img align='right' alt='Coding' width='400' src='https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swathigowda&label=Profile%20views&color=0e75b6&style=flat" alt="swathigowda" /> </p>
 
